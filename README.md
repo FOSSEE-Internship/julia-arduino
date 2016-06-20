@@ -9,4 +9,6 @@ NOTE:
 
     Pkg.clone("https://github.com/cshekhard/SerialPorts.jl.git") 
 
-2.Always include the ArduinoTools.jl file from 'tools' in the same directory where you run Julia scripts or examples 
+2.Always include the ArduinoTools.jl file from 'tools' in the same directory where you run Julia scripts or examples
+
+3.Upload the appropriate firmware onto the Arduino board before testing the examples.
